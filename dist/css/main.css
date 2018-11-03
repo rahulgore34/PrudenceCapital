@@ -176,7 +176,8 @@ main {
     grid-area: bioImage;
     margin: auto;
     border-radius: 50%;
-    border: 3px solid #eece1a; }
+    border: 3px solid #eece1a;
+    width: 50%; }
   .about-info .bio {
     grid-area: bio;
     font-size: 1.5rem; }
@@ -283,7 +284,6 @@ main {
     height: 25vh !important;
     transform: translate3d(100%, 0, 0) !important; }
     .menu-branding .potrait {
-      background: url(../img/profile.jpg) !important;
       width: 150px !important;
       height: 150px !important; }
   .about-info {
